@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26096" started-at="2021-05-15T19:54:15 EET" finished-at="2021-05-15T19:54:41 EET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26096" started-at="2021-05-15T19:54:15 EET" finished-at="2021-05-15T19:54:41 EET">
+      <class name="TestTask.Task.TestCase">
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:TestTask.Task.TestCase@26a7b76d]" name="StartDriver" is-config="true" duration-ms="6339" started-at="2021-05-15T19:54:15 EET" finished-at="2021-05-15T19:54:21 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="userSuccesLogin()[pri:1, instance:TestTask.Task.TestCase@26a7b76d]" name="userSuccesLogin" duration-ms="1854" started-at="2021-05-15T19:54:21 EET" finished-at="2021-05-15T19:54:23 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userSuccesLogin -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:TestTask.Task.TestCase@26a7b76d]" name="CloseDriver" is-config="true" duration-ms="624" started-at="2021-05-15T19:54:23 EET" finished-at="2021-05-15T19:54:24 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:TestTask.Task.TestCase@26a7b76d]" name="StartDriver" is-config="true" duration-ms="4262" started-at="2021-05-15T19:54:24 EET" finished-at="2021-05-15T19:54:28 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="userManagerid()[pri:2, instance:TestTask.Task.TestCase@26a7b76d]" name="userManagerid" duration-ms="1563" started-at="2021-05-15T19:54:28 EET" finished-at="2021-05-15T19:54:29 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userManagerid -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:TestTask.Task.TestCase@26a7b76d]" name="CloseDriver" is-config="true" duration-ms="657" started-at="2021-05-15T19:54:29 EET" finished-at="2021-05-15T19:54:30 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+        <test-method status="PASS" signature="StartDriver()[pri:0, instance:TestTask.Task.TestCase@26a7b76d]" name="StartDriver" is-config="true" duration-ms="5316" started-at="2021-05-15T19:54:30 EET" finished-at="2021-05-15T19:54:35 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDriver -->
+        <test-method status="PASS" signature="userReg()[pri:3, instance:TestTask.Task.TestCase@26a7b76d]" name="userReg" duration-ms="4780" started-at="2021-05-15T19:54:35 EET" finished-at="2021-05-15T19:54:40 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userReg -->
+        <test-method status="PASS" signature="CloseDriver()[pri:0, instance:TestTask.Task.TestCase@26a7b76d]" name="CloseDriver" is-config="true" duration-ms="640" started-at="2021-05-15T19:54:40 EET" finished-at="2021-05-15T19:54:41 EET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseDriver -->
+      </class> <!-- TestTask.Task.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
